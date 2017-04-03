@@ -1,0 +1,39 @@
+<xml version="1.0" encoding="UTF-8">
+    <xs:shema xmlns:xs="http://www.w3.org/2001/XMLShema">
+    <xs:element name="veritabani">
+    <xs:element name="kitaplar">  
+  <xs:complexType>  
+    <xs:sequence>
+      <xs:element name="kitap_id" type="xs:Integer"/>
+      <xs:element name="isbn" type="xs:Integer"/>
+      <xs:element name="kitapAdi" type="xs:string"/>
+      <xs:element name="yayinTarihi" type="xs:date"/>
+      <xs:element name="yazar_id" type="xs:Integer"/>
+      <xs:element name="yayinci_id" type="xs:Integer"/>       
+    </xs:sequence>
+  </xs:complexType>
+    </xs:element>
+     <xs:element name="yayinci">  
+  <xs:complexType>  
+    <xs:sequence>
+      <xs:element name="yayinci_id" type="xs:Integer"/>
+      <xs:element name="yayinciAdi" type="xs:string"/>
+      <xs:element name="yayinciAdres" type="xs:string"/>     
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+     <xs:element name="yazar">
+  <xs:complexType>  
+    <xs:sequence>
+      <xs:element name="yazar_id" type="xs:Integer"/>
+      <xs:element name="yazarAdi" type="xs:string"/>
+      <xs:element name="yazarSoyadi" type="xs:string"/>
+      <xs:element name="yazarDogumYil" type="xs:date"/>
+      <xs:element name="kitap_id" type="xs:Integer"/>
+      <xs:element name="yayinci_id" type="xs:Integer"/>       
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+        </xs:element>
+        </xs:shema>
+</xml>

@@ -1,0 +1,106 @@
+<xml version="1.0" encoding="UTF-8">
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+ 
+<rdf:Description rdf:about="Yuzyillik Yalnizlik">
+  <dc:title>Yüzyıllık Yalnızlık</dc:title>
+  <dc:creator>Gabriel Garcia Marquez</dc:creator>
+  <dc:date>1967</dc:date>
+  <dc:publisher>Can Yayınları</dc:publisher>
+  <dc:subject>Hayat</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Türkçe</dc:language>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Kirmizi Pazartesi">
+  <dc:title>Kırmızı Pazaretsi</dc:title>
+  <dc:creator>Gabriel Garcia Marquez</dc:creator>
+  <dc:date>1981</dc:date>
+  <dc:publisher>Can Yayınları</dc:publisher>
+  <dc:subject>Gerilim</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Türkçe</dc:language>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Karanliktaki Adam">
+  <dc:title>Karanlıktaki Adam</dc:title>
+  <dc:creator>Paul Auster</dc:creator>
+  <dc:date>2008</dc:date>
+  <dc:publisher>Can Yayınları</dc:publisher>
+  <dc:subject>Gerilim</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Türkçe</dc:language>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Ugultulu Tepeler">
+  <dc:title>Uğultulu Tepeler</dc:title>
+  <dc:creator>Emily Bronte</dc:creator>
+  <dc:date>1847</dc:date>
+  <dc:publisher>Can Yayınları</dc:publisher>
+  <dc:subject>Romantik</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Türkçe</dc:language>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Kurk Mantolo Madonna">
+  <dc:title>Kürk Mantolu Madonna</dc:title>
+  <dc:creator>Sabahattin Ali</dc:creator>
+  <dc:date>1943</dc:date>
+  <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+  <dc:subject>Aşk</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Türkçe</dc:language>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Degirmen">
+  <dc:title>Değirmen</dc:title>
+  <dc:creator>Sabahattin Ali</dc:creator>
+  <dc:date>1935</dc:date>
+  <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+  <dc:subject>Aşk</dc:subject>
+  <dc:type>Hikaye</dc:type>
+  <dc:language>Türkçe</dc:language>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Gurur ve Onyargi">
+  <dc:title>Gurur ve Önyargı</dc:title>
+  <dc:creator>Jane Austen</dc:creator>
+  <dc:date>1813</dc:date>
+  <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+  <dc:subject>Aşk</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Türkçe</dc:language>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Akil ve Tutku">
+  <dc:title>Akıl Ve Tutku</dc:title>
+  <dc:creator>Jane Austen</dc:creator>
+  <dc:date>1811</dc:date>
+  <dc:publisher>İş Bankası Kültür Yayınları</dc:publisher>
+  <dc:subject>Aşk</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Türkçe</dc:language>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Kagittan Kentler">
+  <dc:title>Kağıttan Kentler</dc:title>
+  <dc:creator>John Green</dc:creator>
+  <dc:date>2013</dc:date>
+  <dc:publisher>Pegasus Yayınları</dc:publisher>
+  <dc:subject>Aşk</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Türkçe</dc:language>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="Sevgilimden Son Mektup">
+  <dc:title>Sevgilimden Son Mektup</dc:title>
+  <dc:creator>Jojo Moyes</dc:creator>
+  <dc:date>2013</dc:date>
+  <dc:publisher>Pegasus Yayınları</dc:publisher>
+  <dc:subject>Aşk</dc:subject>
+  <dc:type>Roman</dc:type>
+  <dc:language>Türkçe</dc:language>
+    </rdf:Description>
+    </rdf:RDF>
+</xml>

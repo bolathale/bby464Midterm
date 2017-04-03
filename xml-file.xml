@@ -1,0 +1,244 @@
+<xml version="1.0" encoding="UTF-8">
+        <veritabani>
+    <kitaplar>
+        <kitap>
+            <kitap_id>1</kitap_id>
+            <isbn>9789750719363</isbn>
+            <kitapAdi>Yüzyıllık Yalnızlık</kitapAdi>
+            <yayinTarihi>1967</yayinTarihi>
+            <yazar_id>1</yazar_id>
+            <yayinci_id>1</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>2</kitap_id>
+            <isbn>9789750721571</isbn>
+            <kitapAdi>Kırmızı Pazartesi</kitapAdi>
+            <yayinTarihi>1981</yayinTarihi>
+            <yazar_id>1</yazar_id>
+            <yayinci_id>1</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>3</kitap_id>
+            <isbn>9789750709821</isbn>
+            <kitapAdi>Karanlıktaki Adam</kitapAdi>
+            <yayinTarihi>2008</yayinTarihi>
+            <yazar_id>2</yazar_id>
+            <yayinci_id>1</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>4</kitap_id>
+            <isbn>9789750718731</isbn>
+            <kitapAdi>Son Şeyler Ülkesinde</kitapAdi>
+            <yayinTarihi>1987</yayinTarihi>
+            <yazar_id>2</yazar_id>
+            <yayinci_id>1</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>5</kitap_id>
+            <isbn>9789750711183</isbn>
+            <kitapAdi>Görünmeyen</kitapAdi>
+            <yayinTarihi>2009</yayinTarihi>
+            <yazar_id>2</yazar_id>
+            <yayinci_id>1</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>6</kitap_id>
+            <isbn>9789750714153</isbn>
+            <kitapAdi>Uğultulu Tepeler</kitapAdi>
+            <yayinTarihi>1847</yayinTarihi>
+            <yazar_id>3</yazar_id>
+            <yayinci_id>1</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>7</kitap_id>
+            <isbn>9789753638029</isbn>
+            <kitapAdi>Kürk Mantolu Madonna</kitapAdi>
+            <yayinTarihi>1943</yayinTarihi>
+            <yazar_id>4</yazar_id>
+            <yayinci_id>2</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>8</kitap_id>
+            <isbn>9789753638036</isbn>
+            <kitapAdi>İçimizdeki Şeytan</kitapAdi>
+            <yayinTarihi>1940</yayinTarihi>
+            <yazar_id>4</yazar_id>
+            <yayinci_id>2</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>9</kitap_id>
+            <isbn>9789750806605</isbn>
+            <kitapAdi>Değirmen</kitapAdi>
+            <yayinTarihi>1935</yayinTarihi>
+            <yazar_id>4</yazar_id>
+            <yayinci_id>2</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>10</kitap_id>
+            <isbn>9789754587029</isbn>
+            <kitapAdi>Gurur ve Önyargı</kitapAdi>
+            <yayinTarihi>1813</yayinTarihi>
+            <yazar_id>5</yazar_id>
+            <yayinci_id>3</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>11</kitap_id>
+            <isbn>9789944882552</isbn>
+            <kitapAdi>Akıl ve Tutku</kitapAdi>
+            <yayinTarihi>1811</yayinTarihi>
+            <yazar_id>5</yazar_id>
+            <yayinci_id>3</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>12</kitap_id>
+            <isbn>9786053430933</isbn>
+            <kitapAdi>Aynı Yıldızın Altında</kitapAdi>
+            <yayinTarihi>2013</yayinTarihi>
+            <yazar_id>6</yazar_id>
+            <yayinci_id>4</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>13</kitap_id>
+            <isbn>9786053431473</isbn>
+            <kitapAdi>Alaska'nın Peşinde</kitapAdi>
+            <yayinTarihi>2012</yayinTarihi>
+            <yazar_id>6</yazar_id>
+            <yayinci_id>4</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>14</kitap_id>
+            <isbn>9786053431589</isbn>
+            <kitapAdi>Kağıttan Kentler</kitapAdi>
+            <yayinTarihi>2013</yayinTarihi>
+            <yazar_id>6</yazar_id>
+            <yayinci_id>4</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>15</kitap_id>
+            <isbn>9786053430674</isbn>
+            <kitapAdi>Senden Önce Ben</kitapAdi>
+            <yayinTarihi>2013</yayinTarihi>
+            <yazar_id>7</yazar_id>
+            <yayinci_id>4</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>16</kitap_id>
+            <isbn>9786053439042</isbn>
+            <kitapAdi>Senden Sonra Ben</kitapAdi>
+            <yayinTarihi>2016</yayinTarihi>
+            <yazar_id>7</yazar_id>
+            <yayinci_id>4</yayinci_id>
+        </kitap>
+        
+        <kitap>
+            <kitap_id>17</kitap_id>
+            <isbn>9786053431459</isbn>
+            <kitapAdi>Sevgilimden Son Mektup</kitapAdi>
+            <yayinTarihi>2013</yayinTarihi>
+            <yazar_id>7</yazar_id>
+            <yayinci_id>4</yayinci_id>
+        </kitap>
+    </kitaplar>
+            <yayincilar>
+        <yayinci>
+            <yayinci_id>1</yayinci_id>
+            <yayinciAdi>Can Yayınları</yayinciAdi>
+            <yayinciAdres>Hayriye Caddesi No:2 Galatasaray Beyoğlu-İstanbul</yayinciAdres>
+        </yayinci>
+        
+        <yayinci>
+            <yayinci_id>2</yayinci_id>
+            <yayinciAdi>Yapı Kredi Yayınları</yayinciAdi>
+            <yayinciAdres>Müeyyetzade Mahallesi Kemeraltı Caddesi, No: 4 Beyoğlu-İstanbul</yayinciAdres>
+        </yayinci>
+         
+        <yayinci>
+            <yayinci_id>3</yayinci_id>
+            <yayinciAdi>İş Bankası Kültür Yayınları</yayinciAdi>
+            <yayinciAdres>İstiklal Caddesi Meşelik Sokak No: 2 Kat: 4 Beyoğlu-İstanbul</yayinciAdres>
+        </yayinci>
+        
+        <yayinci>
+            <yayinci_id>4</yayinci_id>
+            <yayinciAdi>Pegasus Yayınları</yayinciAdi>
+            <yayinciAdres>Gümüşsuyu Mahallesi Osmanlı Sk. No:9 D:11 Beyoğlu-İstanbul</yayinciAdres>
+        </yayinci>
+    </yayincilar>
+            
+            
+    <yazarlar>
+        <yazar>
+            <yazar_id>1</yazar_id>
+            <yazarAdi>Gabriel Garcia</yazarAdi>
+            <yazarSoyadi>Marquez</yazarSoyadi>
+            <yazarDogumYil>1927</yazarDogumYil>
+            <kitap_id>1</kitap_id>
+            <yayinci_id>1</yayinci_id>
+        </yazar>
+        <yazar>
+            <yazar_id>2</yazar_id>
+            <yazarAdi>Paul</yazarAdi>
+            <yazarSoyadi>Auster</yazarSoyadi>
+            <yazarDogumYil>1947</yazarDogumYil>
+            <kitap_id>4</kitap_id>
+            <yayinci_id>1</yayinci_id>
+        </yazar>
+        <yazar>
+            <yazar_id>3</yazar_id>
+            <yazarAdi>Emily</yazarAdi>
+            <yazarSoyadi>Bronte</yazarSoyadi>
+            <yazarDogumYil>1818</yazarDogumYil>
+            <kitap_id>6</kitap_id>
+            <yayinci_id>1</yayinci_id>
+        </yazar>
+        <yazar>
+            <yazar_id>4</yazar_id>
+            <yazarAdi>Sabahattin</yazarAdi>
+            <yazarSoyadi>Ali</yazarSoyadi>
+            <yazarDogumYil>1907</yazarDogumYil>
+            <kitap_id>9</kitap_id>
+            <yayinci_id>2</yayinci_id>
+        </yazar>
+        <yazar>
+            <yazar_id>5</yazar_id>
+            <yazarAdi>Jane</yazarAdi>
+            <yazarSoyadi>Austen</yazarSoyadi>
+            <yazarDogumYil>1775</yazarDogumYil>
+            <kitap_id>11</kitap_id>
+            <yayinci_id>3</yayinci_id>
+        </yazar>
+        <yazar>
+            <yazar_id>6</yazar_id>
+            <yazarAdi>John</yazarAdi>
+            <yazarSoyadi>Green</yazarSoyadi>
+            <yazarDogumYil>1977</yazarDogumYil>
+            <kitap_id>14</kitap_id>
+            <yayinci_id>4</yayinci_id>
+        </yazar>
+        <yazar>
+            <yazar_id>7</yazar_id>
+            <yazarAdi>Jojo</yazarAdi>
+            <yazarSoyadi>Moyes</yazarSoyadi>
+            <yazarDogumYil>1969</yazarDogumYil>
+            <kitap_id>17</kitap_id>
+            <yayinci_id>4</yayinci_id>
+        </yazar>
+    </yazarlar>
+            </veritabani>
+    </xml-stylesheet>
+</xml>
